@@ -1,0 +1,34 @@
+body {
+  background-image: url("../img/rules.jpg");
+}
+.card{
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 10px; 
+}
+#gioca{
+  padding: 5px 15px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #49D62B;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #2D9217;
+}
+
+#gioca:hover {background-color: #37C518}
+
+#gioca:active {
+  background-color: #2D9217;
+  box-shadow: 0 5px #2D9217;
+  transform: translateY(4px);
+}
+#demoman{
+  width: 40rem;
+}
+#nonso{
+  text-align:center;
+}

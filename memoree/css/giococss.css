@@ -1,0 +1,36 @@
+body {
+	background-image: url("../img/intel.jpg");
+	text-align:center;
+	margin: 30px; 
+}
+
+#exodiaobliterate {
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	background-color: #AF0D0D;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #671C0C;
+}
+
+#exodiaobliterate:hover {background-color: #9C2D15}
+
+#exodiaobliterate:active {
+	background-color: #671C0C;
+	box-shadow: 0 5px #671C0C;
+	transform: translateY(4px);
+}
+#distruzione{
+	border:1px solid #000;
+	font-size:1em;
+	opacity: .93;
+	margin: 0 auto;
+	float: none;
+	width: 50rem;
+	text-align:center;
+}
+
